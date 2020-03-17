@@ -25,6 +25,6 @@ NT = Promedio notas de tareas
 
 NX = Nota de examen
 
-NF =0.6* (0.4_NE + 0.6_NT) + 0.4*NX
+NF =0.6* (0.4 * NE + 0.6 * NT) + 0.4*NX
 
 La condición para aprobar el curso es NF >= 4.0
